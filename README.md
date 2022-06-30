@@ -23,12 +23,19 @@ This last parameter depends on the expression system. In the case of pYD1 The Xp
 
 `python3 ./libframe.py path/to/fastq/file/.fastq path/to/output/file/.txt 13`
 
-Example of results:
+### Example of results:
+
+```bash
 Protein length is 127 aa and sequence is: DLYDDDDKVPGSTSHAPGRHGGRRIRLELHLDNFKLLPQLCSSVSADGSPAVPLQPVLPGIRQMLHHSVSIKCADARVARFLWPCPYALHCALLSITSEFAAACGSTIWISVVEFCEISSTVAAARV
+
 Protein length is 16 aa and sequence is: DLYDDDDKVPGSLCWC
+
 Protein length is 75 aa and sequence is: DLYDDDDKVPGSFLLVLILRRLLGCLTLIRAERHNRPQQGFVRRTAGVFHPSVATKSTCVFHFCISMYGRICGLL
+
 Protein length is 25 aa and sequence is: DLYDDDDKVPGSFVGADIAGDRAGK
-Protein length is 73 aa and sequence is: DLYDDDDKVPGSFLLVLILRRLHGCLTLCLRVHTLDTKQPEYPLLGGISRAPAHKGAALGGSFSSGCLHAEEV
+
+Protein length is 73 aa and sequence is: DLYDDDDKVPGSFLLVLILRRLHGCLTLCLRVHTLDTKQPEYPLLGGISRAPAHKGAALGGSFSSGCLHAEEV 
+```
 
 ## Contributing
 
